@@ -24,7 +24,15 @@ Run the following command:
 composer require nadaft/contactme
 ```
 
-### 2. Run Migration
+### 2. Add the service provider to your config/app.php providers array:
+
+```bash
+Nadaft\ContactMe\ContactMeServiceProvider::class,
+```
+
+> If you're installing on Laravel 5.5+ skip this step
+
+### 3. Run Migration
 
 Run the following command: 
 
@@ -32,7 +40,7 @@ Run the following command:
 php artisan migrate
 ```
 
-### 3. Edit `.env` File
+### 4. Edit `.env` File
 
 Add variable MAIL_CONTACTME_TO to `.env` and then define the email to receive email
 
