@@ -1,0 +1,26 @@
+{
+    "name": "nadaft/contactme",
+    "description": "Laravel contact us form package to send email and save to database",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nadaft",
+            "email": "mail@nadaft.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Nadaft\\ContactMe\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Nadaft\\ContactMe\\ContactMeServiceProvider"
+            ]
+        }
+    }
+}
