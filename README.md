@@ -48,3 +48,5 @@ If you want to create your own contact us page, you must following below instruc
 - Message field = textarea `name="message"`
 
 > Don't forget to add `{{ csrf_field() }}`
+ 
+ You can create the contact page with your own Route and/or Controller
