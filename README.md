@@ -1,3 +1,5 @@
+![alt text](https://raw.githubusercontent.com/Nadaft/contactme/master/preview.png)
+
 # ContactMe
 
 [![Latest Stable Version](https://poser.pugx.org/nadaft/contactme/v/stable)](https://packagist.org/packages/nadaft/contactme)
