@@ -59,4 +59,4 @@ If you want to create your own contact us page, you must following below instruc
 
 ## Bugs and Issues
 
-If you found bugs or issue just write to [Issue](https://github.com/nadaft/contactme/issues)
+If you found bugs or issues just write to [Issues](https://github.com/nadaft/contactme/issues)
