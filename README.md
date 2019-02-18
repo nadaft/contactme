@@ -26,11 +26,11 @@ composer require nadaft/contactme
 
 ### 2. Add the service provider to your config/app.php providers array:
 
+> If you're installing on Laravel 5.5+ skip this step
+
 ```bash
 Nadaft\ContactMe\ContactMeServiceProvider::class,
 ```
-
-> If you're installing on Laravel 5.5+ skip this step
 
 ### 3. Run Migration
 
