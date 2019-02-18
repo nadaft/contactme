@@ -49,7 +49,7 @@ For example
 ```bash
 MAIL_CONTACTME_TO="hello@example.com"
 ```
-***Finally*** you can access your contact page by access `http://your-site.com/contact` to show the result
+***Finally*** you can access your contact page by access `http://your-site.com/contactme` to show the result
 
 
 ## Customize Your Form
