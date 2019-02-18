@@ -56,3 +56,7 @@ If you want to create your own contact us page, you must following below instruc
 > Don't forget to add `{{ csrf_field() }}`
  
  You can create the contact page with your own Route and/or Controller
+
+## Bugs and Issues
+
+If you found bugs or issue just write to [Issue](https://github.com/nadaft/contactme/issues)
