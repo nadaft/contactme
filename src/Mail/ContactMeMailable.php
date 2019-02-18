@@ -31,7 +31,7 @@ class ContactMeMailable extends Mailable
     public function build()
     {
         return $this->subject("Email from " . $this->content['name'])
-                    ->from($this->content['email'])
+                    ->replyTo($this->content['email'])
                     ->markdown('contactme::contactme.email')->with('content', $this->content);
     }
 }
