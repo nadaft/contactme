@@ -1,6 +1,7 @@
 {
     "name": "nadaft/contactme",
     "description": "Laravel contact us form package to send email and save to database",
+    "keywords": ["laravel", "contact", "contact form", "contact us", "form", "email"],
     "type": "library",
     "license": "MIT",
     "authors": [
