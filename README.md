@@ -1,5 +1,9 @@
 # ContactMe
 
+[![Latest Stable Version](https://poser.pugx.org/nadaft/contactme/v/stable)](https://packagist.org/packages/nadaft/contactme)
+[![Total Downloads](https://poser.pugx.org/nadaft/contactme/downloads)](https://packagist.org/packages/nadaft/contactme)
+[![License](https://poser.pugx.org/nadaft/contactme/license)](https://packagist.org/packages/nadaft/contactme)
+
 A Laravel Package to create Contact Us Form Easily
 
 ## Features
