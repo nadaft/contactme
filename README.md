@@ -68,7 +68,3 @@ If you want to create your own contact us page, you must following below instruc
 ## Bugs and Issues
 
 If you found bugs or issues just write to [Issues](https://github.com/nadaft/contactme/issues)
-
-## Live Demo
-
-Visit my website if you want to see the live demo. Just click [This Link](https://nadaft.com/kontak)
